@@ -1,0 +1,2606 @@
+[
+  {
+    "timestamp": "2025-07-02T16:39:56.495007",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 0,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:39:56.506013",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 71,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:39:56.522286",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 65,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:39:56.541057",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 74,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:39:56.558516",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 68,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:39:56.572658",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 37,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:39:56.642842",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 62,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:39:56.946279",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 59,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:39:57.222131",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 56,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:39:57.511464",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 53,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:39:57.858018",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 50,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:39:58.115641",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 47,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:39:58.425803",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 44,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:39:58.722134",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 41,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:39:59.012833",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 38,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:39:59.355636",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 35,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:39:59.641100",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 32,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:39:59.942535",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 29,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:00.226870",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 26,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:00.541125",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 23,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:00.841286",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 20,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:01.142750",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 17,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:01.436103",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 14,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:01.741472",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 11,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:02.036717",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 8,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:02.338413",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 5,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:02.638360",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 2,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:02.960277",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 0,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:03.236179",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 0,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:03.530640",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 0,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:03.825343",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 0,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:04.119632",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 0,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:04.434263",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 37,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:04.717085",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 74,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:05.023160",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:05.621944",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 37,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:05.919467",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 34,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:06.222835",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 71,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:06.503493",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 68,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:06.830803",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 65,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:07.431561",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 37,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:07.727755",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 34,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:08.026382",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 31,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:08.326370",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 28,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:08.629407",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 25,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:09.214390",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 37,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:09.536516",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 74,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:09.826543",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:10.122909",
+    "faces_detected": 0,
+    "expression": "sad",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:10.436172",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:10.723428",
+    "faces_detected": 0,
+    "expression": "sad",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:11.923516",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 67,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:12.529886",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 37,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:12.831406",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 74,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:13.127152",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:13.422456",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:13.725357",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:14.032283",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:14.322584",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:14.623724",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:14.929267",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:15.218381",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:15.535305",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:15.823919",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:16.114500",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:16.425739",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:16.733143",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:17.016176",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:17.316893",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:17.624670",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:17.927394",
+    "faces_detected": 0,
+    "expression": "sad",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:18.230077",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:18.519393",
+    "faces_detected": 0,
+    "expression": "sad",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:18.825687",
+    "faces_detected": 0,
+    "expression": "sad",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:19.735386",
+    "faces_detected": 0,
+    "expression": "sad",
+    "deception_score": 97,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:20.032862",
+    "faces_detected": 0,
+    "expression": "sad",
+    "deception_score": 94,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:20.327018",
+    "faces_detected": 0,
+    "expression": "sad",
+    "deception_score": 91,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:20.632513",
+    "faces_detected": 0,
+    "expression": "sad",
+    "deception_score": 88,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:20.937517",
+    "faces_detected": 0,
+    "expression": "sad",
+    "deception_score": 85,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:21.223764",
+    "faces_detected": 0,
+    "expression": "sad",
+    "deception_score": 82,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:21.531693",
+    "faces_detected": 0,
+    "expression": "sad",
+    "deception_score": 79,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:21.827504",
+    "faces_detected": 0,
+    "expression": "sad",
+    "deception_score": 76,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:22.125798",
+    "faces_detected": 0,
+    "expression": "sad",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:22.436243",
+    "faces_detected": 0,
+    "expression": "sad",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:22.727271",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:23.029416",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:23.317997",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:23.625190",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:23.940706",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:24.210263",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:24.510605",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:24.830880",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:25.130281",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:25.430050",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:25.720571",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:26.027421",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:26.331928",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:26.623333",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:26.936124",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:27.229834",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:27.526958",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 97,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:27.827692",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:28.127619",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:28.738283",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 67,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:29.017796",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:29.316796",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:29.623859",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:29.927742",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:30.227271",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 97,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:30.519326",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:30.835641",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:31.126213",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:31.416394",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:31.719592",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 97,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:32.028277",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:32.318665",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:32.625326",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:32.938819",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 97,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:33.233725",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 94,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:33.828631",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 37,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:34.125440",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 74,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:34.419592",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:34.741264",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:35.026101",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:35.321037",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:35.625012",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:35.932518",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 97,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:36.231498",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 94,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:39.986359",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:40.978378",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:41.986637",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:42.985298",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:43.967907",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:44.988894",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:45.980471",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:46.976533",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 97,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:47.980214",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 94,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:48.978381",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:49.984083",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:50.982399",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:51.978909",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 97,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:52.969976",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 94,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:53.972465",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:54.983296",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 97,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:55.970056",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:56.964902",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 97,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:57.969596",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 94,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:58.982962",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:40:59.997829",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 97,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:00.984996",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:01.974847",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:02.984114",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:03.983809",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:04.982967",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:05.971622",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:06.984977",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:08.071106",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 97,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:08.980462",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:09.989160",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:10.975949",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:11.979353",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:12.984873",
+    "faces_detected": 0,
+    "expression": "sad",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:13.977820",
+    "faces_detected": 0,
+    "expression": "surprised",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:14.990138",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:15.978559",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:16.983429",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 97,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:17.966222",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:18.985999",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:19.969286",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 97,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:20.983713",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:21.980427",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:22.981862",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:23.983831",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:24.983552",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:25.975838",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:26.977456",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:27.981555",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:30.396271",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:30.411280",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:30.967598",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:31.972758",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 97,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:32.980414",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:33.991575",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:34.975882",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:35.980877",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:36.981670",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:37.985662",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 97,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:38.983332",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 94,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:39.972325",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:40.992323",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:41.976645",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:42.975905",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:43.982306",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:44.985116",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:45.981071",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:46.993383",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 97,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:47.986305",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 94,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:48.985444",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:49.987652",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:50.991912",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:51.986398",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:52.983685",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:53.988281",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:54.984242",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 97,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:55.982592",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:56.979249",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:57.978699",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:58.980972",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 97,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:41:59.974858",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:42:00.980834",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:42:01.991376",
+    "faces_detected": 0,
+    "expression": "happy",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:42:02.993182",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:42:03.982543",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:42:04.629501",
+    "faces_detected": 0,
+    "expression": "surprised",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:42:04.818250",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:42:04.837580",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:42:04.855960",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:42:05.010423",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:42:05.308289",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:42:05.631950",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 97,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:42:05.926433",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 94,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:44:48.480082",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 0,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:44:48.491343",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:48.519334",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 37,
+    "blink_rate": 0
+  },
+  {
+    "timestamp": "2025-07-02T16:44:49.944325",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 37,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:50.260071",
+    "faces_detected": 0,
+    "expression": "sad",
+    "deception_score": 74,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:50.562435",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:50.845948",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:51.141485",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:51.455619",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:51.742490",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:52.039038",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 97,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:52.337737",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 94,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:52.654809",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 91,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:52.938572",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 88,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:53.244324",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 85,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:53.544224",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 82,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:53.843641",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 79,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:54.151239",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 76,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:54.462687",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 73,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:54.745869",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 70,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:55.043744",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 67,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:55.352652",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 64,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:55.640992",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 61,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:55.937377",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 58,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:56.241247",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 55,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:56.544343",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 52,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:56.851811",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 49,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:57.159931",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 46,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:57.442585",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 43,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:57.743099",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 40,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:58.042704",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 77,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:58.343652",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:58.651288",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 97,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:58.947226",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 94,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:59.244099",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 91,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:59.535734",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:44:59.851915",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:00.158012",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:00.437543",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 97,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:00.752405",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:01.059858",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:01.357549",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:01.659876",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:01.960841",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:02.269561",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:02.557842",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:02.862403",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:03.159646",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:03.450291",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:03.743907",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:04.050151",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 97,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:04.337572",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:04.640119",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:05.824540",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 37,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:06.436877",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 0,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:06.741696",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 0,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:07.040869",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 0,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:07.341593",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 0,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:07.638042",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 0,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:07.934567",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 37,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:08.233551",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 74,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:08.519386",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:08.842237",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:09.141621",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:09.438187",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:09.754458",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 97,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:10.043160",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 94,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:10.338384",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 91,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:10.632873",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 88,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:10.941161",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:11.250590",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 1
+  },
+  {
+    "timestamp": "2025-07-02T16:45:11.541485",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 2
+  },
+  {
+    "timestamp": "2025-07-02T16:45:11.846875",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 2
+  },
+  {
+    "timestamp": "2025-07-02T16:45:12.150475",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 3
+  },
+  {
+    "timestamp": "2025-07-02T16:45:12.431961",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 3
+  },
+  {
+    "timestamp": "2025-07-02T16:45:12.744902",
+    "faces_detected": 0,
+    "expression": "angry",
+    "deception_score": 100,
+    "blink_rate": 3
+  },
+  {
+    "timestamp": "2025-07-02T16:45:13.046182",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 100,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:13.331284",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 97,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:13.641767",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 94,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:13.947264",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 91,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:14.226987",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 88,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:14.536154",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 85,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:14.819943",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 82,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:15.123151",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 79,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:15.441016",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 76,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:15.739674",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 73,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:16.026676",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 70,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:16.329291",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 67,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:16.659365",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 64,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:16.964663",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 61,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:17.253540",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 58,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:17.559024",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 55,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:17.858690",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 52,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:18.158024",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 49,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:18.458869",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 46,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:18.760765",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 43,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:19.059092",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 40,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:19.357230",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 37,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:19.658293",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 34,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:19.957116",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 31,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:20.260109",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 28,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:20.558194",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 25,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:20.851671",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 22,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:21.150010",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 19,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:21.443437",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 16,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:21.756934",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 13,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:22.065075",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 10,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:22.357593",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 47,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:22.662207",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 84,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:22.950114",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 81,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:23.256891",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 78,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:23.555846",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 75,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:23.846180",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 72,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:24.146440",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 69,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:24.435858",
+    "faces_detected": 0,
+    "expression": "happy",
+    "deception_score": 100,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:24.752065",
+    "faces_detected": 0,
+    "expression": "happy",
+    "deception_score": 97,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:25.037976",
+    "faces_detected": 0,
+    "expression": "happy",
+    "deception_score": 94,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:25.335018",
+    "faces_detected": 0,
+    "expression": "happy",
+    "deception_score": 91,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:25.664430",
+    "faces_detected": 0,
+    "expression": "happy",
+    "deception_score": 88,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:25.956209",
+    "faces_detected": 0,
+    "expression": "happy",
+    "deception_score": 85,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:26.243646",
+    "faces_detected": 0,
+    "expression": "happy",
+    "deception_score": 82,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:26.547270",
+    "faces_detected": 0,
+    "expression": "happy",
+    "deception_score": 79,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:27.155837",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 76,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:27.447984",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 73,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:27.750158",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 70,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:28.040822",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 67,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:28.359407",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 64,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:29.232225",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 61,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:29.536375",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 58,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:29.844924",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 55,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:30.134331",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 52,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:30.454511",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 49,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:30.728121",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 46,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:31.043162",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 43,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:31.343530",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 40,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:31.644431",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 37,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:31.938349",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 34,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:32.229860",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 31,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:32.553911",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 28,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:32.855750",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 25,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:33.146095",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 22,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:33.444459",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 19,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:33.743319",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 16,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:34.044457",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 13,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:34.341865",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 10,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:34.642837",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 7,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:34.948581",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 4,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:35.248529",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 1,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:35.543048",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 0,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:35.871227",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 0,
+    "blink_rate": 4
+  },
+  {
+    "timestamp": "2025-07-02T16:45:36.142095",
+    "faces_detected": 0,
+    "expression": "neutral",
+    "deception_score": 0,
+    "blink_rate": 4
+  }
+]
