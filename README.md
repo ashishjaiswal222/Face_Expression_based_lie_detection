@@ -46,6 +46,3 @@ python app.py
 - The `static/face-api.js-master` folder contains the face-api.js library used for face detection and recognition.
 - Frontend React source code is located in the `frontend/` directory.
 
-## License
-
-Specify your project license here.
